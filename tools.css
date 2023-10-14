@@ -760,7 +760,7 @@ about
   margin-bottom: 25px;
 }
 .features-item p{font-size: 13px; color:#000;
-  
+  direction: rtl;
 }
 
 .features-item .main-button {
